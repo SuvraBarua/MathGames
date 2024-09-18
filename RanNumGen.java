@@ -1,4 +1,4 @@
-import java.util.*
+import java.util.*;
 
 class RanNumGen {
   int Genarate(int x) {
