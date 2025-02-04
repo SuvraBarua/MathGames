@@ -1,9 +1,16 @@
 import java.util.*;
 
 class TrueOrFalse{
+	//operators are there to hold the mathmatical operators
 	char operators[] = {'+', '-', '*', '/'};
+
+	//This array stores the relational operators
 	char relationalOperator[] = {'=', '>', '<'};
+
+	//This array is there to store randomly generated numbers.
 	int numbers[];
+
+	
 	void easy(){
 		Random rand = new Random();
 		numbers = new int[4];
