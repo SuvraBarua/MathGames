@@ -1,0 +1,74 @@
+[
+    {
+        "date": "2023-01-01",
+        "product": "Keyboard",
+        "quantity": 10,
+        "price": 50
+    },
+    {
+        "date": "2023-01-02",
+        "product": "Mouse",
+        "quantity": 15,
+        "price": 25
+    },
+    {
+        "date": "2023-01-03",
+        "product": "Monitor",
+        "quantity": 5,
+        "price": 200
+    },
+    {
+        "date": "2023-01-04",
+        "product": "Laptop",
+        "quantity": 3,
+        "price": 1000
+    },
+    {
+        "date": "2023-01-05",
+        "product": "Headphones",
+        "quantity": 20,
+        "price": 75
+    },
+    {
+        "date": "2023-01-06",
+        "product": "Webcam",
+        "quantity": 8,
+        "price": 80
+    },
+    {
+        "date": "2023-01-07",
+        "product": "Printer",
+        "quantity": 4,
+        "price": 150
+    },
+    {
+        "date": "2023-01-08",
+        "product": "Desk",
+        "quantity": 2,
+        "price": 300
+    },
+    {
+        "date": "2023-01-09",
+        "product": "Chair",
+        "quantity": 6,
+        "price": 120
+    },
+    {
+        "date": "2023-01-10",
+        "product": "USB Drive",
+        "quantity": 12,
+        "price": 15
+    },
+    {
+        "date": "2023-01-11",
+        "product": "External Hard Drive",
+        "quantity": 7,
+        "price": 100
+    },
+    {
+        "date": "2023-01-12",
+        "product": "Speakers",
+        "quantity": 9,
+        "price": 60
+    }
+]
